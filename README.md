@@ -4,3 +4,10 @@
 * チカチカしている間に休憩しましょう。
 
 ![チカチカ](http://ie.u-ryukyu.ac.jp/~e145702/sample.gif)
+
+# version
+vim 7.4 端末しか動作確認してません。
+
+# install
+* bundleとかで
+* :call Foo()
