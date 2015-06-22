@@ -9,5 +9,5 @@
 vim 7.4 端末しか動作確認してません。
 
 # install
-* bundleとかで
+* .vimrcに貼る
 * :call Foo()
